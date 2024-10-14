@@ -297,7 +297,7 @@ params:
         url: "https://github.com/gurusabarish/hugo-profile"
         image: /images/achievment.jpg
       - title: Microsoft Imagine Runner
-        content: We are developed a product which can help others.
+        content: We are developing a product which can help others.
       - title: Google Summer of Code
         content: Contributed to a open source project.
         url: https://example.com
