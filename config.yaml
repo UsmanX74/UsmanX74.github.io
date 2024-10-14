@@ -157,7 +157,7 @@ params:
     title: "About Me"
     image: "/images/hero2.jpg"
     content: |-
-      I am a mechanical design & robotics engineer with a passion for web development. I have a background in mechanical engineering and robotics, and I have a strong interest in Robotics, CAD, Mechanical Design, & CAE. I am currently working as a freelance mechancial designer as well as a part-time sales assistant in London, United Kingdom.
+      I am a mechanical design & robotics engineer with a passion for web development. I have a background in mechanical engineering and robotics, and I have a strong interest in Robotics, CAD, Mechanical Design, & CAE. I am currently working as a freelance mechancial designer as well as a part time sales assistant in London, United Kingdom.
 
       My most recent project is a a wheeled-biped robot project, sort of like a clone of Direct Drive's Tita robot or Ascento guard from Ascento Robotics. 
     skills:
@@ -166,7 +166,7 @@ params:
       items:
         - "SolidWorks"
         - "Siemens NX"
-        - "ROS 1 / ROS2
+        - "ROS 1 / ROS2"
         - "Python"
         - "C++"
         - "Node.js"
