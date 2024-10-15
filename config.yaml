@@ -378,7 +378,7 @@ params:
     socialNetworks:
       github: https://github.com/UsmanX74
       linkedin: https://linkedin.com/in/smusman74
-      instagram: https://www.instagram.com/usman.x74/
+      #instagram: https://www.instagram.com/usman.x74/
       fiverr: https://www.fiverr.com/usmanx74
 
   # List pages like blogs and posts
