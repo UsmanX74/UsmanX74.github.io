@@ -344,9 +344,9 @@ params:
           - icon: fab fa-github
             url: https://github.com/UsmanX74/TaurqBot
 
-      - title: Mechanical Jack Move V2
-        content: Moving mechanical jack simulation.
-        image: /images/projects/Simulation.gif
+      - title: Geneva Mechanism
+        content: Geneva Mechanism CAD Render.
+        image: /images/projects/geneva.gif
         featured:
           name: Demo V2
           link: #https://hugo-profile-2.netlify.app
