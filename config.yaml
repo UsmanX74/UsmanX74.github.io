@@ -272,7 +272,7 @@ params:
         date: "2016 - 2020"
         CGPA: "3.39 out of 4.0"
         content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
+          I Published two papers in the ACM SIGCHI Conference on Artificial Intelligence.
           - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
           - Face mask detection using a single convolutional neural network.
 
@@ -356,7 +356,7 @@ params:
           - "Javascript"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+            url: #https://github.com/gurusabarish/HugoProfileV2
 
   #Contact
   contact:
