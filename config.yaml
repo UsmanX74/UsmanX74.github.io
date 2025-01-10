@@ -244,10 +244,6 @@ params:
       content: |
           As a freelance mechanical designer on Fiverr, I offer design services to clients globally, working on projects ranging from product design to technical drawings. I specialize in creating detailed CAD models and providing design solutions for various industries. My freelance work allows me to apply my skills in a flexible, client-driven environment.
 
-          - Brought
-          - Implemented
-          - Conducted
-
   # Education
   education:
     enable: true
@@ -272,15 +268,15 @@ params:
         date: "2016 - 2020"
         CGPA: "3.39 out of 4.0"
         content: |-
-          I Published two papers in the ACM SIGCHI Conference on Artificial Intelligence.
+          My Undergraduate Final Year Project:
           - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
           - Face mask detection using a single convolutional neural network.
 
           Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+            - DSU Formula Student Team Member (Suspension Design)
+            - Director Documentation IMechE Student Chapter
         featuredLink:
-          enable: true
+          enable: false
           name: "My academic record"
           url: "https://example.com"
 
@@ -311,9 +307,9 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Project Placeholder
-        content: Project placeholder description.
-        image: /images/projects/converter.jpg
+      - title: MacPherson Strut Suspension Design
+        content: -
+        image: /images/McPhersonFrontSuspension.jpg
         featured:
           name: Demo
           link: #https://hugo-profile.netlify.app
