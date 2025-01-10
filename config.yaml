@@ -258,8 +258,9 @@ params:
         Grade: "Merit (2:1)"
         content: |-
           My Research Project:
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+            - A ROS-based quadruped robot designed in SolidWorks with real-time control implemented through ros_control.
+            - Simulated the quadruped in Gazebo and controlled using a joystick interface (DualShock 4).
+            - Single IMU used for gait stabilization and a LiDAR used for basic SLAM through OpenCV and the slam_toolbox.
       
       - title: "Bachelor of Engineering in Mechanical Engineering"
         school:
@@ -269,8 +270,10 @@ params:
         CGPA: "3.39 out of 4.0"
         content: |-
           My Undergraduate Final Year Project:
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
+          - An electric go-kart designed in SolidWorks strictly under CIK-FIA regulations.
+          - Lap time performance simulation in OptimumLap.
+          - Battery sizing and usage analysis during Braking, Cornering, Coasting and Acceleration phases using MATLAB.
+          - Stress, Fatigue and Durability analysis performed in ANSYS Mechanical.
 
           Extracurricular Activities
             - DSU Formula Student Team Member (Suspension Design)
@@ -308,7 +311,7 @@ params:
     # title: "Custom Name"
     items:
       - title: MacPherson Strut Suspension Design
-        content: -
+        content: MacPherson Strut Suspension designed in SolidWorks and rendered using SolidWorks Visualize
         image: /images/McPhersonFrontSuspension.jpg
         featured:
           name: Demo
@@ -341,7 +344,7 @@ params:
             url: https://github.com/UsmanX74/TaurqBot
 
       - title: Geneva Mechanism
-        content: Geneva Mechanism CAD Render.
+        content: Geneva Mechanism designed in SolidWorks and animation rendered using SolidWorks Visualize.
         image: /images/projects/geneva.gif
         featured:
           name: Demo V2
