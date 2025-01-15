@@ -139,8 +139,17 @@ params:
       enable: true
       name: "Resume/CV"
       url: "/UsmanCV_81024.pdf"
-      download: true
-      newPage: false
+      download: false
+      newPage: true
+
+    button1:
+      enable: true
+      name: "Portfolio"
+      url: "/UsmanDesignPortfolioV3.pdf"
+      download: false
+      newPage: true
+
+
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
@@ -279,9 +288,9 @@ params:
             - DSU Formula Student Team Member (Suspension Design)
             - Director Documentation IMechE Student Chapter
         featuredLink:
-          enable: false
+          enable: true
           name: "My academic record"
-          url: "https://example.com"
+          url: #https://hugo-profile-2.netlify.app
 
   # Achievements
   achievements:
@@ -317,16 +326,12 @@ params:
           name: Demo
           link: #https://hugo-profile.netlify.app
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "SolidWorks"
+          - "3D Render"
+          - "Suspension Design"
         links:
           - icon: fa fa-envelope
             url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
-          - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
       - title: TaurqBot
         content: A  quadruped robot designed in SolidWorks with real-time control architecture built in ROS & simulated in Gazebo, controlled using the ros_control package, with dynamic foothold positioning and leg trajectory algorithms based on Raibert’s heuristics
