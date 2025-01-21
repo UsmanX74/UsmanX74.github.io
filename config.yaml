@@ -166,7 +166,7 @@ params:
     title: "About Me"
     image: "/images/hero2.jpg"
     content: |-
-      I am a mechanical design & robotics engineer with a passion for web development. I have a background in mechanical engineering and robotics, and I have a strong interest in Robotics, CAD, Mechanical Design, & CAE. I am currently working as a freelance mechancial designer as well as a part time sales assistant in London, United Kingdom.
+      I’m a passionate Mechanical Design Engineer with expertise in robotics, CAD design, prototyping, and precision engineering. I’ve contributed to projects like robotic arms and automation systems, combining SolidWorks, CNC programming, and 3D printing with a strong focus on innovation and functionality. With a proven ability to integrate mechanical systems seamlessly with electronics, I’m driven to create cutting-edge solutions that push technological boundaries.
 
       My most recent project is a a wheeled-biped robot project, sort of like a clone of Direct Drive's Tita robot or Ascento guard from Ascento Robotics. 
     skills:
@@ -184,6 +184,7 @@ params:
         - "Autodesk Inventor"
         - "ANSYS Mechanical"
         - "Java"
+        - "Catia V5"
 
   # Experience
   experience:
@@ -194,7 +195,7 @@ params:
     - job: "Sales Assistant"
       company: "WHSmith"
       companyUrl: "https://www.whsmith.co.uk/"
-      date: "Sep 2022 - Present"
+      date: "Oct 2022 - Present"
       featuredLink:
         enable: false
         name: "View the project"
