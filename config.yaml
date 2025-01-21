@@ -138,14 +138,14 @@ params:
     button:
       enable: true
       name: "Resume/CV"
-      url: "/UsmanCV_81024.pdf"
+      url: "/Resume/Usman's_CV.pdf"
       download: false
       newPage: true
 
     button1:
       enable: true
       name: "Portfolio"
-      url: "/UsmanDesignPortfolioV3.pdf"
+      url: "/Portfolio/UsmanDesignPortfolioV3.pdf"
       download: false
       newPage: true
 
