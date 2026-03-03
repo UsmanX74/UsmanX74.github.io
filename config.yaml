@@ -360,6 +360,7 @@ params:
         badges:
           - "SolidWorks"
           - "SolidWorks Visualize"
+          - "Animation"
         links:
           - icon: fab fa-github
             url: #https://github.com/gurusabarish/HugoProfileV2
