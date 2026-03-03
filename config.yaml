@@ -185,6 +185,8 @@ params:
         - "ANSYS Mechanical"
         - "Java"
         - "Catia V5"
+        - "Isaac Sim"
+        - "MATLAB"
 
   # Experience
   experience:
@@ -356,9 +358,8 @@ params:
           name: Demo V2
           link: #https://hugo-profile-2.netlify.app
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "SolidWorks"
+          - "SolidWorks Visualize"
         links:
           - icon: fab fa-github
             url: #https://github.com/gurusabarish/HugoProfileV2
