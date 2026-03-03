@@ -145,7 +145,7 @@ params:
     button1:
       enable: true
       name: "Portfolio"
-      url: "/Portfolio/UsmanDesignPortfolioV3.pdf"
+      url: "/Portfolio/UsmanDesignPortfolioV5.pdf"
       download: false
       newPage: true
 
@@ -174,6 +174,7 @@ params:
       title: "Here are a few tools and technologies that I've been working with recently:"
       items:
         - "SolidWorks"
+        - "SolidWorks (Visualize)"
         - "Siemens NX"
         - "ROS 1 / ROS2"
         - "Python"
@@ -194,10 +195,21 @@ params:
     # title: "Custom Name"
     items:
 
+    - job: "Mechanical Design Engineer"
+      company: "Nessovo"
+      companyUrl: "https://nessovo.com"
+      date: "Mar 2026 - Present"
+      featuredLink:
+        enable: false
+        name: "View the project"
+        url: "https://online.pharmaasia.com.pk/product.php?productid=596"
+      content: |
+          As a Mechanical Design Engineer at Nessovo, I focus on designing intelligent products, collaborating with cross-functional teams, and ensuring product quality through precision engineering.
+
     - job: "Sales Assistant"
       company: "WHSmith"
       companyUrl: "https://www.whsmith.co.uk/"
-      date: "Oct 2022 - Present"
+      date: "Oct 2022 - Jan 2026"
       featuredLink:
         enable: false
         name: "View the project"
@@ -210,12 +222,13 @@ params:
       companyUrl: "https://signaxes.com"
       date: "Mar 2022 - Sep 2022"
       featuredLink:
-        enable: false
-        name: "View the project"
-        url: "https://example.com"
+        enable: true
+        name: "View the VisiTec 800 project"
+        url: "https://online.pharmaasia.com.pk/product.php?productid=596"
       content: |
           As a Mechanical Design Engineer at SignAxes, I focused on designing innovative mechanical systems, collaborating with cross-functional teams, and ensuring product quality through precision engineering.
           - Developed and refined complex mechanical designs that enhanced system reliability and ease of manufacturing
+          - Designed the VisiTec 800, a high-precision vision inspection system, optimizing its mechanical components for improved performance and durability.
           - Collaborated with manufacturing teams to troubleshoot design issues, improving product performance and reducing lead times
           - Played a key role in integrating CAD and simulation tools, streamlining the design process and reducing design iterations
 
@@ -229,8 +242,9 @@ params:
       info:
         enable: true
       content: |
-          As a Mechanical Design & CAE Engineer at DICE Foundation, I specialized in creating high-performance mechanical systems, utilizing advanced simulation techniques to optimize designs for durability and efficiency.
-          - Applied FEA and simulation tools to predict system behavior, preventing potential design flaws early in the process
+          As a Mechanical Design & CAE Engineer at DICE Foundation, I specialized in creating high-performance mechanical systems for our prototype electric vehicle, utilizing advanced simulation techniques to optimize designs for durability and efficiency.
+          - Designed suspension components, chassis elements, and steering components for the Nur E 75 Electric vehicle (Pakistan's first indigenous electric vehicle prototype).
+          - Conducted comprehensive CAE analyses using FEA, including stress, fatigue, and durability simulations, to ensure the reliability and safety of mechanical components under various operating conditions.
           - Led the development of robust mechanical components, ensuring compliance with stringent industry standards and safety regulations
           - Collaborated with multidisciplinary teams to ensure seamless integration of mechanical designs with electrical and control systems
 
@@ -323,7 +337,7 @@ params:
     # title: "Custom Name"
     items:
       - title: MacPherson Strut Suspension Design
-        content: MacPherson Strut Suspension designed in SolidWorks and rendered using SolidWorks Visualize
+        content: MacPherson Strut Suspension designed in SolidWorks and rendered using SolidWorks Visualize.
         image: /images/McPhersonFrontSuspension.jpg
         featured:
           name: Demo
@@ -337,7 +351,7 @@ params:
             url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
 
       - title: TaurqBot
-        content: A  quadruped robot designed in SolidWorks with real-time control architecture built in ROS & simulated in Gazebo, controlled using the ros_control package, with dynamic foothold positioning and leg trajectory algorithms based on Raibert’s heuristics
+        content: A  quadruped robot designed in SolidWorks with real-time control architecture built in ROS & simulated in Gazebo, controlled using the ros_control package, with dynamic foothold positioning and leg trajectory algorithms based on Raibert’s heuristics.
         image: /images/projects/taurqbot.gif
         featured:
           name: Full Video
