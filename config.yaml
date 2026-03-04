@@ -168,7 +168,7 @@ params:
     content: |-
       I’m a passionate Mechanical Design Engineer with expertise in robotics, CAD design, prototyping, and precision engineering. I’ve contributed to projects like robotic arms and automation systems, combining SolidWorks, CNC programming, and 3D printing with a strong focus on innovation and functionality. With a proven ability to integrate mechanical systems seamlessly with electronics, I’m driven to create cutting-edge solutions that push technological boundaries.
 
-      My most recent project is a a wheeled-biped robot project, sort of like a clone of Direct Drive's Tita robot or Ascento guard from Ascento Robotics. 
+      My most recent project is a a wheeled-biped robot project, a clone of Direct Drive's Tita robot or Ascento guard from Ascento Robotics. 
     skills:
       enable: true
       title: "Here are a few tools and technologies that I've been working with recently:"
@@ -202,7 +202,7 @@ params:
       featuredLink:
         enable: false
         name: "View the project"
-        url: "https://online.pharmaasia.com.pk/product.php?productid=596"
+        url: "add link"
       content: |
           As a Mechanical Design Engineer at Nessovo, I focus on designing intelligent products, collaborating with cross-functional teams, and ensuring product quality through precision engineering.
 
@@ -215,7 +215,7 @@ params:
         name: "View the project"
         url: "https://example.com"
       content: |
-          As a Sales Assistant at WHSmith & M&S Food franchise store in London, I handle customer inquiries, manage inventory, and assist with product displays. This role has enhanced my customer service skills and my ability to work efficiently in a fast-paced retail environment while I pursue a permanent position in robotics and mechanical design.
+          As a Sales Assistant at WHSmith & M&S Food franchise store in London, I handle customer inquiries, manage inventory, and assist with product displays. This role has greatly enhanced my communication, customer service skills, and my ability to work efficiently in a fast-paced retail environment while I pursue a permanent position in robotics and mechanical design.
 
     - job: "Mechanical Design Engineer"
       company: "SignAxes"
@@ -233,22 +233,23 @@ params:
           - Played a key role in integrating CAD and simulation tools, streamlining the design process and reducing design iterations
 
     - job: "Mechanical Design & CAE Engineer"
-      company: "DICE Foundation"
-      companyUrl: "http://dicefoundation.org/"
+      company: "DICE Foundation (now JaXeri)"
+      companyUrl: "http://jaxeri.com/index.html"
       date: "Jan 2021 - Dec 2021"
       featuredLink:
-        enable: false
-        url: "https://example.com"
+        enable: true
+        name: "View Nur-E 75 prototype"
+        url: "https://www.pakwheels.com/new-cars/jaxeri/nur-e/75/"
       info:
         enable: true
       content: |
-          As a Mechanical Design & CAE Engineer at DICE Foundation, I specialized in creating high-performance mechanical systems for our prototype electric vehicle, utilizing advanced simulation techniques to optimize designs for durability and efficiency.
-          - Designed suspension components, chassis elements, and steering components for the Nur E 75 Electric vehicle (Pakistan's first indigenous electric vehicle prototype).
+          As a Mechanical Design & CAE Engineer at [DICE Foundation](http://dicefoundation.org/) (now [JaXeri](http://jaxeri.com/index.html)), I specialized in creating high-performance mechanical systems for our prototype electric vehicle, utilizing advanced simulation techniques to optimize designs for durability and efficiency.
+          - Designed suspension components, chassis elements, and steering components for the [Nur-E 75](http://jaxeri.com/products.html) electric vehicle (Pakistan's first indigenous electric vehicle prototype).
           - Conducted comprehensive CAE analyses using FEA, including stress, fatigue, and durability simulations, to ensure the reliability and safety of mechanical components under various operating conditions.
           - Led the development of robust mechanical components, ensuring compliance with stringent industry standards and safety regulations
           - Collaborated with multidisciplinary teams to ensure seamless integration of mechanical designs with electrical and control systems
 
-    - job: "CAD Instructor"
+    - job: "CAD & Product Design Instructor"
       company: "NAVTCC"
       companyUrl: "https://navttc.gov.pk/"
       date: "Oct 2020 - Dec 2021"
@@ -265,8 +266,9 @@ params:
       companyUrl: "https://www.fiverr.com/usmanx74?up_rollout=true"
       date: "Sep 2022 - Present"
       featuredLink:
-        enable: false
-        url: "https://example.com"
+        enable: true
+        name: "View my Fiverr profile"
+        url: "https://www.fiverr.com/usmanx74"
       content: |
           As a freelance mechanical designer on Fiverr, I offer design services to clients globally, working on projects ranging from product design to technical drawings. I specialize in creating detailed CAD models and providing design solutions for various industries. My freelance work allows me to apply my skills in a flexible, client-driven environment.
 
